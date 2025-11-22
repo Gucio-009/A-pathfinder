@@ -8,7 +8,7 @@ import pygame
 import math
 from queue import PriorityQueue
 
-# (Optional) imported but unused in this programrom scipy.sparse.linalg import spsolve_triangular
+
 
 # Window setup
 WIDTH = 800
@@ -260,4 +260,5 @@ def main(win, width):
 
 # Run program
 main(WIN, WIDTH)
-# --- KONIEC KOMENTOWANEGO KODU ---
+
+
